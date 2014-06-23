@@ -1,4 +1,4 @@
 MsExamPractice
 ==============
 
-Practice code for MS Exams
+Practice code and revision notes for MS Exams
